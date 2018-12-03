@@ -1,2 +1,3 @@
-controllers: DEBUG
-service: INFO
+loglevel:
+  controllers: DEBUG
+  service: INFO

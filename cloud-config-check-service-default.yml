@@ -1,6 +1,2 @@
-bxm:
-  cloud:
-    leader:
-      name: jongoh.lee
-    follow:
-      name: jeongkuk.kim
+controllers: DEBUG
+service: INFO

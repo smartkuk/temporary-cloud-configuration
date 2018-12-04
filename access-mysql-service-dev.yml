@@ -8,3 +8,6 @@ server:
     driver-class-name: com.mysql.jdbc.Driver
     username: bwg_cf
     password: bAnkWare12#$
+
+  cloud-config-server:
+    uri: http://localhost:8888

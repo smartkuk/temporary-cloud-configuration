@@ -1,0 +1,5 @@
+
+customer-service:
+  serviceId: access-mysql-service
+  host: localhost
+  port: 8080

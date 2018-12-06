@@ -1,6 +1,6 @@
 
 loglevel:
-  controllers: ERROR
+  controllers: TRACE
   services: TRACE
 
 customer-service:

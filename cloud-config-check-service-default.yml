@@ -1,3 +1,14 @@
+
 loglevel:
   controllers: DEBUG
   services: TRACE
+
+customer-service:
+  serviceId: access-mysql-service
+  host: localhost
+  port: 8080
+
+order-service:
+  serviceId: order-service
+  host: localhost
+  port: 8083

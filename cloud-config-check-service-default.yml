@@ -1,7 +1,7 @@
 
 loglevel:
   controllers: TRACE
-  services: TRACE
+  services: INFO
 
 customer-service:
   serviceId: access-mysql-service

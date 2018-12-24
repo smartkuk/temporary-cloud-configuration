@@ -1,0 +1,5 @@
+
+customer-service:
+  serviceId: customer-service
+  host: localhost
+  port: 8080

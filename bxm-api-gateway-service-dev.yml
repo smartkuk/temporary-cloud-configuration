@@ -1,0 +1,12 @@
+
+contractApiService:
+  path: /contracts/**
+  serviceId: contract-service
+
+productApiService:
+  path: /products/**
+  serviceId: product-service
+
+customerApiService:
+  path: /customers/**
+  serviceId: customer-service

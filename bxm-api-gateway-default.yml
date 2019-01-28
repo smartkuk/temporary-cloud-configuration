@@ -1,4 +1,7 @@
 
+edgeService:
+  instanceId: bxm-api-gateway-service
+
 contractApiService:
   path: /contracts/**
   serviceId: contract-service

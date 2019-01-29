@@ -9,3 +9,15 @@ bxm-microservices:
 
   receipt-service:
     id: receipt-service
+
+# 개발 DB
+jpa:
+  database: postgresql
+  hibernate:
+    dialect: org.hibernate.dialect.PostgreSQL82Dialect
+
+datasource:
+  url: jdbc:postgresql://dev.cloudfoundry:5432/dev_cf_db
+  username: bwg_cf
+  password: bwg_cf
+  driver-class-name: org.postgresql.Driver

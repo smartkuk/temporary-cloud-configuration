@@ -1,5 +1,5 @@
 
-# 다른 마이크로 서비스 인스턴스 ID
+# bxm microservice service instance id
 bxm-microservices:
   customer-service:
     id: customer-service
@@ -9,3 +9,21 @@ bxm-microservices:
 
   receipt-service:
     id: receipt-service
+
+  eureka-service:
+    id: eureka-service
+
+  gateway-service:
+    id: gateway-service
+
+  config-service:
+    id: config-service
+
+  receipt-batch-master-service:
+    id: receipt-batch-master-service
+
+  receipt-batch-worker-service:
+    id: receipt-batch-worker-service
+
+  front-service:
+    id: front-service

@@ -1,7 +1,0 @@
-
-server:
-  datasource:
-    url: jdbc:postgresql://dev.cloudfoundry:5432/dev_cf_db
-    driver-class-name: org.postgresql.Driver
-    username: bwg_cf
-    password: bwg_cf

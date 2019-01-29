@@ -1,0 +1,5 @@
+
+# 캐시 서버 설정(redis)
+cache-server:
+  host: localhost
+  port: 6379
